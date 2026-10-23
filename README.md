@@ -13,7 +13,7 @@ I am a 3rd-year student at **FPT University**, specializing in **Defensive Secur
 My technical roadmap focuses on mastering triage and security operations as a **SOC Analyst**, with the ultimate goal of advancing into **CSIRT (Computer Security Incident Response Team)** to handle deep digital forensics, incident containment, and malware analysis.
 
 - 🎓 **Education:** Junior at FPT University (Information Assurance).
-- 🏆 **Achievement:** Consolation Prize at Cybersecurity Student Competition 2026 (Attack-Defense Bracket).
+- 🏆 **Achievement:** Consolation Prize at Cybersecurity Student Contest Vietnam 2026 (Attack-Defense Bracket).
 - 🎯 **Career Trajectory:** SOC Analyst (Monitoring & Triage) ➔ CSIRT / Incident Responder (Deep Forensics & Mitigation).
 - 💡 **Core Interests:** Network Forensics, Incident Handling, Reverse Engineering (ELF/PE), and Secure Backend Architecture.
 
