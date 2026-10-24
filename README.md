@@ -30,8 +30,8 @@ My technical roadmap focuses on mastering triage and security operations as a **
 ### 📜 Certifications & Badges
 
 - **Google Cybersecurity Professional Certificate** — Google
-- **Cisco Certified Network Associate (CCNA)** — Cisco
-- **Cisco CyberOps Associate Badges** — Cisco Networking Academy
+- **Cisco Certified Network Associate (CCNA)** (Course Completion Certificate) — Cisco Networking Academy
+- **Cisco CyberOps Associate** (Course Completion Certificate) — Cisco Networking Academy
 
 
 ---
@@ -58,7 +58,7 @@ My technical roadmap focuses on mastering triage and security operations as a **
 
 <div align="center">
   <a href="https://tryhackme.com/p/Argenvale" target="_blank">
-    <img src="https://cdn-images.tryhackme.com/public-profile/Argenvale/badge-dark-a71f2af1e6f1.png" alt="Argenvale's TryHackMe badge." width="400">
+    <img src="https://cdn-images.tryhackme.com/public-profile/Argenvale/badge-dark-9c7cce5f9cf0.png" alt="Argenvale's TryHackMe badge." width="400">
   </a>
 </div>
 
